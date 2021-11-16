@@ -25,7 +25,7 @@ The touchscreen is also used to make some actions:
 - A RESTART button can be touched to quit the current game and to show the initial screen.
 - A CLEAR button can be touched to cancel all obstacles previously detected in the current game; the game continues, and the display will show new obstacles detected (including previous ones if detected again).
 
-When the player reaches one of the exits, the game ends. To start a new game, the player must press the RESET button or touch RESTART on the screen. The joystick is disabled when the previous game ends and until the new game is started. When the game ends, an end-game message must be displayed on the touchscreen.
+When the player reaches one of the exits, the game ends. To start a new game, the player must press the RESET button or touch RESTART on the screen. The joystick is disabled when the previous game ends and until the new game is started. When the game ends, an end-game message must is displayed on the touchscreen.
 
   <div align="center">
       <img width="180px" height="250px" src="screenshots/fig1.png" </img> &nbsp &nbsp
