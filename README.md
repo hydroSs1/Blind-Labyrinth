@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="screenshots/demo.gif" alt="animated" />
+  <img src="screenshots/animation.gif" alt="animated" />
 </p>
 
 Project for the Computer Architectures course at Politecnico di Torino.
